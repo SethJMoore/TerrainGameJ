@@ -11,7 +11,7 @@ in order to mate with the red critters. The red critters have the reverse behavi
 
 ![Game in progress](https://raw.githubusercontent.com/SethJMoore/TerrainGameJ/master/InProgress.JPG)
 
-On initially starting, a random terrain is presented with a white square in the upper lefthand corner (that's you).
+On initially starting, a random terrain is presented with a white square in the lower lefthand corner (that's you).
 typing 'v' will randomly place one critter at a time. Typing 'p' will place 100 random critters. If a critter runs over
 your square, you will start riding the critter. You can use the arrow keys to move from one critter to an adjacent critter.
 You might try making it from one corner to the opposite corner, if you want to have a goal.
